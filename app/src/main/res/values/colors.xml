@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink">#F68E8E</color>
+    <color name="pinkk">#F5BBBC</color>
+    <color name="gray">#B1B0B0</color>
+    <color name="cam">#D07D32</color>
+    <color name="xanh">#46BBF8</color>
+    <color name="custom_red">#FB6C6C</color>
+    <color name="background_color">@color/white</color>
+    <color name="light_gray" />
+    <color name="blue" />
+    <color name="seat_selected">#7CEF7C</color>
+    <color name="seat_booked">#F84040</color>
+    <color name="seat_available">#CCCCCC</color>
+</resources>
