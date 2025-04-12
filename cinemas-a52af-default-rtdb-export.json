@@ -1,0 +1,2349 @@
+{
+  "booked_seats": {
+    "CGV Aeon Hà Đông": {
+      "Cưới ma giải hạn": {
+        "12-04-2025": {
+          "22:45": {
+            "D3": true,
+            "D4": true
+          }
+        }
+      },
+      "Nhà gia tiên": {
+        "12-04-2025": {
+          "10:45": {
+            "D3": true,
+            "D4": true
+          },
+          "12:15": {
+            "D5": true,
+            "D6": true
+          }
+        }
+      },
+      "Âm dương lộ": {
+        "12-04-2025": {
+          "14:00": {
+            "C1": true,
+            "C2": true,
+            "D3": true,
+            "D4": true
+          }
+        }
+      }
+    },
+    "CGV HOàng Văn Thụ": {
+      "Nhà gia tiên": {
+        "12-04-2025": {
+          "9:45": {
+            "D5": true,
+            "D6": true
+          }
+        }
+      }
+    },
+    "CGV Hoàng Văn Thụ": {
+      "Cưới ma giải hạn": {
+        "12-04-2025": {
+          "12:45": {
+            "D5": true,
+            "D6": true
+          }
+        }
+      }
+    },
+    "CGV Tràng Tiền Plaza": {
+      "Cưới ma giải hạn": {
+        "12-04-2025": {
+          "21:00": {
+            "C3": true,
+            "C4": true,
+            "D5": true,
+            "D6": true
+          }
+        }
+      }
+    },
+    "CGV Vincom Metropolis Liễu Giai": {
+      "Quỷ nhập tràng": {
+        "12-04-2025": {
+          "20:00": {
+            "D3": true,
+            "D4": true
+          }
+        }
+      }
+    },
+    "CGV Vincom Royal City": {
+      "Nhà gia tiên": {
+        "13-04-2025": {
+          "17:30": {
+            "B4": true
+          }
+        }
+      },
+      "Quỷ nhập tràng": {
+        "13-04-2025": {
+          "14:35": {
+            "C3": true,
+            "C4": true,
+            "D3": true,
+            "D4": true,
+            "D5": true,
+            "D6": true
+          }
+        }
+      }
+    }
+  },
+  "cinemas": {
+    "movie1": {
+      "12-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "12:45",
+            "16:00",
+            "19:45",
+            "21:00"
+          ],
+          "subtitle": "2D English Sub"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "14:00",
+            "16:00",
+            "20:00",
+            "23:00"
+          ],
+          "subtitle": "2D English Sub"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "18:00",
+            "21:00",
+            "23:00"
+          ],
+          "subtitle": "2D English Sub"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "15:00",
+            "18:15",
+            "20:00",
+            "21:00",
+            "22:45"
+          ],
+          "subtitle": "2D English Sub"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "20:00",
+            "21:00",
+            "23:00"
+          ],
+          "subtitle": "2D English Sub"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "15:00",
+            "18:15"
+          ],
+          "subtitle": "2D English Sub"
+        }
+      ],
+      "13-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "21:00",
+            "22:45"
+          ],
+          "subtitle": "2D English Sub"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "17:30",
+            "19:00",
+            "20:45",
+            "22:00"
+          ],
+          "subtitle": "2D English Sub"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "20:00",
+            "23:00"
+          ],
+          "subtitle": "2D English Sub"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "18:45",
+            "20:00",
+            "21:00"
+          ],
+          "subtitle": "2D English Sub"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "20:00",
+            "23:00"
+          ],
+          "subtitle": "2D English Sub"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "18:00",
+            "20:00",
+            "22:00"
+          ],
+          "subtitle": "2D English Sub"
+        }
+      ],
+      "14-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "21:20",
+            "22:50"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "10:00",
+            "20:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "10:00",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "12:30"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "18:00",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "21:00",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "15-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "11:00",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "12:00",
+            "20:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "14:00",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "18:50",
+            "21:50"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "17:40",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "20:00",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ]
+    },
+    "movie10": {
+      "12-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "12:00",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "13:00",
+            "21:30"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "11:50",
+            "12:00",
+            "22:40"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "14:00",
+            "18:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "10:00",
+            "20:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "20:00",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "13-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "20:00",
+            "23:50"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "10:00",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "19:00",
+            "20:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "10:10",
+            "19:10"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "13:00",
+            "15:00",
+            "17:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "10:00",
+            "12:00"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "14-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "11:00",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "19:00",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "15:00",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "10:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "12:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            null,
+            "19:00"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "15-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "12:00",
+            "20:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "11:00",
+            "20:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "13:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "20:00",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "10:35",
+            "18:10"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            null,
+            "14:04"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ]
+    },
+    "movie11": {
+      "12-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "10:20",
+            "17:30"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "14:30",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "15:20",
+            "20:20"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "21:45"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "22:50",
+            "23:50"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "13-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "9:10",
+            "20:20"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "",
+            "21:50"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "22:20"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "18:20",
+            "22:20"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "12:00",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "12:50",
+            "21:50"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "14-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "13:00",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "21:20"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "22:45",
+            "23:50"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "15:45",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "21:30"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "15-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "16:00",
+            "19:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "20:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "18:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "20:00",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "19:00",
+            "20:45",
+            "22:30"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ]
+    },
+    "movie12": {
+      "12-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "10:30",
+            "20:30",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "17:40",
+            "18:40",
+            "21:50"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "10:05",
+            "15:35",
+            null,
+            "20:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "17:05",
+            "22:45"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": "",
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "11:25",
+            "18:20"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "13-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "18:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "16:25",
+            "18:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "13:00",
+            "14:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "12:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "11:50"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "20:00",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "14-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "12:00",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "11:00",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "12:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "15:45"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "15-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "10:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "13:00",
+            "20:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "18:00",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "19:00",
+            "22:35"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "20:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "19:00"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ]
+    },
+    "movie13": {
+      "12-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "14:45",
+            "20:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "12:00",
+            "17:55"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "19:50"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "18:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "19:00",
+            "22:35"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "21:20"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "13-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "21:00",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "23:00",
+            "23:50"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "20:40"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "21:10"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "22:20",
+            "23:50"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "14-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "22:00",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "21:00",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "22:00",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "21:00",
+            "23:50"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "22:45"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "15-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "12:00",
+            "15:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "12:00",
+            "16:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "12:00",
+            "19:35"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "13:25",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "21:20",
+            "22:30"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "21:45"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ]
+    },
+    "movie7": {
+      "12-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "10:00",
+            "13:00",
+            "16:00",
+            "19:00",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "12:00",
+            "15:00",
+            "18:00",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "11:00",
+            "14:00",
+            "17:00",
+            "20:00",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "13:00",
+            "16:00",
+            "19:00",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "10:30",
+            "13:30",
+            "16:30",
+            "19:30",
+            "22:30"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "16:00",
+            "19:00",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "13-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "10:00",
+            "13:00",
+            "16:00",
+            "19:00",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "12:00",
+            "15:00",
+            "18:00",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "11:00",
+            "14:00",
+            "17:00",
+            "20:00",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "10:45",
+            "13:45",
+            "16:45",
+            "19:45"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "10:00",
+            "13:00",
+            "16:00",
+            "19:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "14:00",
+            "17:00",
+            "20:00",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "14-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "18:00",
+            "19:00",
+            "21:40"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "21:00",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "21:00",
+            "22:20"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "19:00",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "21:10",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "15:40",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "15-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "15:00",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "17:00",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "11:00",
+            "14:00",
+            "22:40"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "17:00",
+            "19:00",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "13:00",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "21:00",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ]
+    },
+    "movie8": {
+      "12-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV HOàng Văn Thụ",
+          "showtimes": [
+            "9:45",
+            "12:00",
+            "14:15",
+            "16:30",
+            "18:15",
+            "20:30",
+            "22:15"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "12:00",
+            "14:15",
+            "16:30",
+            "18:15",
+            "20;30",
+            "22:15"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "12:00",
+            "14:30",
+            "16:30",
+            "18:30",
+            "20:30",
+            "22:30"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "10:45",
+            "12:15",
+            "14:30",
+            "16:30",
+            "18:30",
+            "20:30"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "11:00",
+            "13:00",
+            "15:15",
+            "17:30",
+            "19:30",
+            "21:30"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "12:00",
+            "14:15",
+            "16:30",
+            "18:15",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "13-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "10:00",
+            "13:00",
+            "15:30",
+            "17:30",
+            "20:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "12:00",
+            "14:00",
+            "16:30",
+            "19:00",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "10:00",
+            "12:30",
+            "15:00",
+            "17:30",
+            "20:00",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "13:00",
+            "15:45",
+            "18:00",
+            " 20:15",
+            "22:30"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "10:00",
+            "12:30",
+            "14:45",
+            "16:30",
+            "18:45",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "11:00",
+            "13:30",
+            "16:00",
+            "18:30",
+            "20:45"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "14-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "10:00",
+            "12:30",
+            "15:00",
+            "16:30",
+            "19:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "12:00",
+            "15:00",
+            "17:45",
+            "20:00",
+            "22:30"
+          ],
+          "subtitle": "2D English Mall"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "12:00",
+            "15:00",
+            "17:00",
+            "20:00",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "13:00",
+            "16:00",
+            "19:00",
+            "21:00",
+            "23:00"
+          ]
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "18:00",
+            "20:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "15-04-2025": [
+        {
+          "area": "\"Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "10:00",
+            "13:00",
+            "16:00",
+            "19:00",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "12:00",
+            "15:00",
+            "18:00",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội ",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "11:00",
+            "14:00",
+            "17:00",
+            "20:00",
+            "23:00"
+          ]
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "13:00",
+            "16:00",
+            "19:00",
+            "22:00"
+          ]
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "18:00",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ]
+    },
+    "movie9": {
+      "12-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "20:00",
+            "22:00",
+            "23:30"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "18:40",
+            "21:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "15:50",
+            "21:00",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "19:05",
+            "21:20"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "18:00",
+            "21:10"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "16:50",
+            "20:00"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "13-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "15:40",
+            "20:40"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "16:00",
+            "21:30"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "12;00",
+            "14:35",
+            "19:20"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "18:00",
+            "20:10"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "20:20",
+            "22:40"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "19:30",
+            "23:00"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "14-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "21:00",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "10:00",
+            "11:00",
+            "21:40"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            null,
+            "16:00",
+            "21:45"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "20;20",
+            "21:20",
+            "23:35"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "21:45",
+            "22:30"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "19:00",
+            "21:20",
+            "23:40"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ],
+      "15-04-2025": [
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Hoàng Văn Thụ",
+          "showtimes": [
+            "19:00",
+            "23:10"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Thành phố Hồ Chí Minh",
+          "name": "CGV Crescent Mall",
+          "showtimes": [
+            "9:00",
+            "12:55",
+            "15:30",
+            "19:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Royal City",
+          "showtimes": [
+            "12:00",
+            "16:40",
+            "21:20"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Aeon Hà Đông",
+          "showtimes": [
+            "21:00",
+            "22:10",
+            "23:50"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Tràng Tiền Plaza",
+          "showtimes": [
+            "15:20",
+            "22:00"
+          ],
+          "subtitle": "2D English SUB"
+        },
+        {
+          "area": "Tại Hà Nội",
+          "name": "CGV Vincom Metropolis Liễu Giai",
+          "showtimes": [
+            "15:30",
+            "19:12",
+            "21:20"
+          ],
+          "subtitle": "2D English SUB"
+        }
+      ]
+    }
+  },
+  "movies": {
+    "Chieusom": {
+      "movie12": {
+        "Anh": "https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/3/5/350x495-timxac.jpg",
+        "Ddien": "Tiến Luật; Ngô Kiến Huy; NSND Hồng Vân; NSƯT Hữu Châu; NSƯT Đại Nghĩa, Thanh Hương, Hoàng Mèo, Nghệ sĩ Phi Phụng, Phan Vũ.",
+        "Dvien": "Bùi Văn Hải",
+        "Ndung": "Bộ đôi Tiến Luật và Ngô Kiến Huy, với nghề nghiệp \"độc lạ\" hốt xác và lái xe cứu thương, hứa hẹn mang đến những tràng cười không ngớt cho khán giả qua hành trình tìm xác có một không hai trên màn ảnh Việt. Nhờ sự trợ giúp của thế lực tâm linh, họ không chỉ đối mặt với những tình huống \"dở khóc dở cười\" mà còn khám phá ra những bí mật rợn người ẩn sau những thi thể. Liệu họ có hoàn thành nhiệm vụ \"khó nhằn\" này hay sẽ gặp phải những \"biến cố\" nào?",
+        "Ngay": "18-04-2025",
+        "Ngonngu": "Tiếng Việt",
+        "Ten": "Tìm xác: Ma không đầu",
+        "Theloai": "Kinh dị, hài hước",
+        "Thoiluong": "100 phút"
+      },
+      "movie13": {
+        "Anh": "https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/3/image/1800x/71252117777b696995f01934522c402d/3/5/350x495-ttk.jpg",
+        "Ddien": "Victor Vũ",
+        "Dvien": "Quốc Huy, Đinh Ngọc Diệp, Quốc Anh, Minh Anh, Anh Phạm,...",
+        "Ndung": "Thám Tử Kiên là một nhân vật được yêu thích trong tác phẩm điện của ăn khách của NGƯỜI VỢ CUỐI CÙNG của Victor Vũ, Thám Tử Kiên: Kỳ Không Đầu sẽ là một phim Victor Vũ trở về với thể loại sở trường Kinh Dị - Trinh Thám sau những tác phẩm tình cảm lãng mạn trước đó.",
+        "Ngay": "25-04-2025",
+        "Ngonngu": "Tiếng Việt",
+        "Ten": "Thám tử kiên: Kỳ án không đầu",
+        "Theloai": "Kinh dị, trinh thám",
+        "Thoiluong": "100 phút"
+      }
+    },
+    "Dangchieu": {
+      "movie1": {
+        "Anh": "https://www.bhdstar.vn/wp-content/uploads/2025/04/referenceSchemeHeadOfficeallowPlaceHoldertrueheight700ldapp.jpg",
+        "Ddien": "Chayanop Boonprakob",
+        "Dvien": "Putthipong Assaratanakul, Krit Amnuaydechkorn, Arachaporn Pokinpakorn",
+        "Ndung": "Menn, một tên trộm cắp đang làm tay trong cho cảnh sát, đồng thời cũng là một gã trai thẳng chính hiệu. Ngày nọ, Menn vô tình nhặt được một bao lì xì đỏ bí ẩn và bị ràng buộc bởi khế ước siêu nhiên, bắt anh phải kết hôn với một hồn ma. Không dừng lại ở đó, số phận càng trớ trêu hơn khi “vợ” của Menn không chỉ là người cõi âm, mà còn là một “mỹ” vong dễ thương với tư tưởng cấp tiến tên Titi.",
+        "Ngay": "11-04-2025",
+        "Ngonngu": "Tiếng Việt",
+        "Ten": "Cưới ma giải hạn",
+        "Theloai": "Hài hước",
+        "Thoiluong": "128 phút"
+      },
+      "movie10": {
+        "Anh": "https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/3/small_image/600x314/a134659ca47b28f7b266e1777fbf870f/6/4/640x396-adl_1__1.jpg",
+        "Ddien": "Hoàng Tuấn Cường",
+        "Dvien": "Bạch Công Khanh; Lan Thy; Minh Hoàng; Tuấn Dũng; Đại Nghĩa; Hạnh Thúy",
+        "Ndung": "Vì mưu sinh, một cử nhân thất nghiệp lén cha chở một thi thể nữ về Tây Nguyên ngay giữa đêm khuya. Trên hành trình, anh buộc phải đối mặt với một thế giới siêu nhiên đầy rẫy vong linh, một cô gái bí ẩn anh đem lòng tơ tưởng và một sự thật hắc ám gắn liền với chiếc xe cứu thương mà anh đang cầm lái",
+        "Ngay": "28-03-2025",
+        "Ngonngu": "Tiếng Việt",
+        "Ten": "Âm dương lộ",
+        "Theloai": "Hài hước, kinh dị",
+        "Thoiluong": "119 phút",
+        "movie1": {
+          "Ndung": "Menn, một tên trộm cắp đang làm tay trong cho cảnh sát, đồng thời cũng là một gã trai thẳng chính hiệu. Ngày nọ, Menn vô tình nhặt được một bao lì xì đỏ bí ẩn và bị ràng buộc bởi khế ước siêu nhiên, bắt anh phải kết hôn với một hồn ma. Không dừng lại ở đó, số phận càng trớ trêu hơn khi “vợ” của Menn không chỉ là người cõi âm, mà còn là một “mỹ” vong dễ thương với tư tưởng cấp tiến tên Titi."
+        }
+      },
+      "movie11": {
+        "Anh": "https://cms.megagscinemas.vn//media/77491/350x495-trutaky.jpg",
+        "Ddien": "Kim Dong-Chul",
+        "Dvien": "Nam Doh-hyeong, Choi Han, Kim Yeonwoo",
+        "Ndung": "Cha sứ Park – một linh mục vốn là bác sĩ đã bị khai trừ sau khi thực hiện những nghi lễ trừ tà mà Giáo hội cho là cực đoan, bởi những người trong Giáo hội từ chối tin rằng những thế lực vô hình đang rình rập các linh hồn vô tội. Những tưởng cha Park an phận giải nghệ, một nhà sư đến từ ngôi chùa bí ẩn cất giữ những bí thuật bất ngờ tìm tới ông với một lời khẩn cầu: Bảo vệ một đứa trẻ tên Joon Hoo khỏi vị sư phụ đã hắc hóa của cậu bé. Cha Park buộc phải đối mặt với bóng ma quá khứ để giải cứu đứa trẻ và ngăn chặn bi kịch lặp lại.",
+        "Ngay": "21-03-2025",
+        "Ngonngu": "Tiếng Hàn",
+        "Ten": "Trừ tà ký: Khởi nguyên hắc ám",
+        "Theloai": "Kinh dị, hoạt hình",
+        "Thoiluong": "85 phút"
+      },
+      "movie7": {
+        "Anh": "https://www.bhdstar.vn/wp-content/uploads/2025/03/referenceSchemeHeadOfficeallowPlaceHoldertrueheight700ldapp-22.jpg",
+        "Ddien": "Bùi Thạc Chuyên",
+        "Dvien": "Thái Hòa, Quang Tuấn, Diễm Hằng Lamoon, Anh Tú Wilson, Hồ Thu Anh, Uyển Ân",
+        "Ndung": "Phim điện ảnh đề tài kháng chiến “Địa Đạo: Mặt Trời Trong Bóng Tối” của đạo diễn Bùi Thạc Chuyên dự kiến ra rạp sớm từ 04/04/2025, hướng đến kỷ niệm 50 năm thống nhất đất nước.",
+        "Ngay": "04-04-2025",
+        "Ngonngu": "Tiếng Việt",
+        "Ten": "Địa đạo: Mặt trời trong bóng tối",
+        "Theloai": "Lịch sử, hành động",
+        "Thoiluong": "128 phút"
+      },
+      "movie8": {
+        "Anh": "https://thanhnienviet.mediacdn.vn/thumb_w/480/thumb_w/editors/2024/12/31/main-poster-nha-gia-tien_680.jpg",
+        "Ddien": "Huỳnh Lập",
+        "Dvien": "Huỳnh Lập, Phương Mỹ Chi, NSƯT Hạnh Thuý, NSƯT Huỳnh Đông, Puka,…",
+        "Ndung": "Nhà Gia Tiên xoay quanh câu chuyện đa góc nhìn về các thế hệ khác nhau trong một gia đình, có hai nhân vật chính là Gia Minh (Huỳnh Lập) và Mỹ Tiên (Phương Mỹ Chi). Trở về căn nhà gia tiên để quay các video “triệu view” trên mạng xã hội, Mỹ Tiên - một nhà sáng tạo nội dung thuộc thế hệ Z vốn không tin vào chuyện tâm linh, hoàn toàn mất kết nối với gia đình, bất ngờ nhìn thấy Gia Minh - người anh trai đã mất từ lâu. Để hồn ma của Gia Minh có thể siêu thoát và không tiếp tục làm phiền mình, Mỹ Tiên bắt tay cùng Gia Minh lên kế hoạch giữ lấy căn nhà gia tiên đang bị họ hàng tranh chấp, đòi ông nội chia tài sản.",
+        "Ngay": "21-02-1025",
+        "Ngonngu": "Tiếng Việt",
+        "Ten": "Nhà gia tiên",
+        "Theloai": "Gia đình, hài hước",
+        "Thoiluong": "117 phút"
+      },
+      "movie9": {
+        "Anh": "https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/q/u/qu_nh_p_tr_ng_-_payoff_poster_-_kc_07032025_1_.jpg",
+        "Ddien": "Pom Nguyễn",
+        "Dvien": "Khả Như, Quang Tuấn,....",
+        "Ndung": "Lấy cảm hứng từ truyền thuyết kinh dị nhất về “người chết sống dậy”, Quỷ Nhập Tràng là câu chuyện được lấy bối cảnh tại một ngôi làng chuyên nghề mai táng, gắn liền với những hoạt động đào mộ, tẩm liệm và chôn cất người chết.",
+        "Ngay": "07-03-2025",
+        "Ngonngu": "Tiếng Việt",
+        "Ten": "Quỷ nhập tràng",
+        "Theloai": "Kinh dị",
+        "Thoiluong": "122 phút"
+      }
+    },
+    "Sapchieu": {
+      "movie2": {
+        "Anh": "https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/3/5/350x495-timxac.jpg",
+        "Ddien": "Tiến Luật; Ngô Kiến Huy; NSND Hồng Vân; NSƯT Hữu Châu; NSƯT Đại Nghĩa, Thanh Hương, Hoàng Mèo, Nghệ sĩ Phi Phụng, Phan Vũ.",
+        "Dvien": "Bùi Văn Hải",
+        "Ndung": "Bộ đôi Tiến Luật và Ngô Kiến Huy, với nghề nghiệp \"độc lạ\" hốt xác và lái xe cứu thương, hứa hẹn mang đến những tràng cười không ngớt cho khán giả qua hành trình tìm xác có một không hai trên màn ảnh Việt. Nhờ sự trợ giúp của thế lực tâm linh, họ không chỉ đối mặt với những tình huống \"dở khóc dở cười\" mà còn khám phá ra những bí mật rợn người ẩn sau những thi thể. Liệu họ có hoàn thành nhiệm vụ \"khó nhằn\" này hay sẽ gặp phải những \"biến cố\" nào?",
+        "Ngay": "18-04-2025",
+        "Ngonngu": "Tiếng Việt",
+        "Ten": "Tìm xác: Ma không đầu",
+        "Theloai": "Kinh dị, Hài hước",
+        "Thoiluong": "100 phút"
+      },
+      "movie3": {
+        "Anh": "https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/1/image/1800x/71252117777b696995f01934522c402d/6/4/640x396-holy.jpg",
+        "Ddien": "Lim Dae-hee",
+        "Dvien": "Don Lee; Seo Hyun; David Lee",
+        "Ndung": "Tổ đội săn lùng và tiêu diệt các thế lực tôn thờ quỷ dữ với những sức mạnh siêu nhiên khác nhau gồm “tay đấm” Ma Dong-seok, Seohuyn (SNSD) và David Lee hứa hẹn mở ra cuộc chiến săn quỷ khốc liệt nhất dịp lễ 30/4 này!",
+        "Ngay": "25-04-2025",
+        "Ngonngu": "Tiếng Hàn",
+        "Ten": "Đêm thánh: Đội săn quỷ",
+        "Theloai": "Hành động, kinh dị",
+        "Thoiluong": "100 phút"
+      },
+      "movie4": {
+        "Anh": "https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/3/image/1800x/71252117777b696995f01934522c402d/3/5/350x495-ttk.jpg",
+        "Ddien": "Victor Vũ",
+        "Dvien": "Quốc Huy, Đinh Ngọc Diệp, Quốc Anh, Minh Anh, Anh Phạm,...",
+        "Ndung": "Thám Tử Kiên là một nhân vật được yêu thích trong tác phẩm điện của ăn khách của NGƯỜI VỢ CUỐI CÙNG của Victor Vũ, Thám Tử Kiên: Kỳ Không Đầu sẽ là một phim Victor Vũ trở về với thể loại sở trường Kinh Dị - Trinh Thám sau những tác phẩm tình cảm lãng mạn trước đó.",
+        "Ngay": "25-04-2025",
+        "Ngonngu": "Tiếng Việt",
+        "Ten": "Thám tử kiên: Kỳ án không đầu",
+        "Theloai": "Kinh dị, trinh thám",
+        "Thoiluong": "100 phút"
+      },
+      "movie5": {
+        "Anh": "https://rapphim.vn/wp-content/uploads/posters/lat-mat-8.jpg",
+        "Ddien": "Lý Hải",
+        "Dvien": "NSƯT Hữu Châu, Lê Tuấn Khang, NSƯT Kim Phương, Long Đẹp Trai, Tuyết Thu",
+        "Ndung": "Một bộ phim về sự khác biệt quan điểm giữa ba thế hệ ông bà cha mẹ con cháu. Ai cũng đúng ở góc nhìn của mình nhưng đứng trước hoài bão của tuổi trẻ, cuối cùng thì ai sẽ là người phải nghe theo người còn lại? Và nếu ước mơ của những đứa trẻ bị cho là viển vông, thì cơ hội nào và bao giờ tuổi trẻ mới được tự quyết định tương lai của mình?",
+        "Ngay": "30-04-2025",
+        "Ngonngu": "Tiếng Việt",
+        "Ten": "Lật mặt 8: Vòng tay nắng",
+        "Theloai": "Tâm lý, tình cảm",
+        "Thoiluong": "100 phút"
+      },
+      "movie6": {
+        "Anh": "https://upload.wikimedia.org/wikipedia/vi/5/5d/Doraemon_Movie_2025_Poster.jpg",
+        "Ddien": "Yukiyo Teramoto",
+        "Dvien": "Wasabi Mizuta, Megumi Ôhara, Yumi Kakazu, Subaru Kimura, Tomokazu Seki,...",
+        "Ndung": "Thông qua món bảo bối mới của Doraemon, cả nhóm bạn bước thế giới trong một bức tranh nổi tiếng và bắt gặp cô bạn bí ẩn tên Claire. Với lời mời của Claire, cả nhóm cùng đến thăm vương quốc Artoria, nơi ẩn giấu một viên ngọc quý mang tên Artoria Blue đang ngủ yên. Trên hành trình tìm kiếm viên ngọc, nhóm bạn Doraemon phát hiện một truyền thuyết về sự hủy diệt của thế giới, mà truyền thuyết đó dường như đang sống dậy! Liệu cả nhóm có thể phá hủy lời nguyền này và bảo vệ cả thế giới?",
+        "Ngay": "23-05-2025",
+        "Ngonngu": "Tiếng Nhật",
+        "Ten": "Doraemon: Nobita và cuộc phiêu lưu vào thế giới trong tranh",
+        "Theloai": "Hoạt hình, phiêu lưu",
+        "Thoiluong": "100 phút"
+      }
+    }
+  },
+  "transactions": {
+    "85Ka7OmW6Yf8HQD6nctwLz5g9Rl1": {
+      "-ONLBR9yVdNHm8shfK0E": {
+        "bookingCode": "4J2G0",
+        "cinemaName": "CGV Aeon Hà Đông",
+        "food": "Không có",
+        "movieTitle": "Nhà gia tiên",
+        "seats": "D3, D4",
+        "showtime": "12-04-2025, 10:45",
+        "totalPrice": "600000"
+      },
+      "-ONVd7pSXkc-Y7Z0o6yB": {
+        "bookingCode": "6YLJQ",
+        "cinemaName": "CGV Aeon Hà Đông",
+        "food": "My Combo (4), CGV Combo (4), Premium CGV Combo (4), Premium My Combo (4)",
+        "movieTitle": "Âm dương lộ",
+        "seats": "D3, D4",
+        "showtime": "12-04-2025, 14:00",
+        "totalPrice": "2480000"
+      }
+    },
+    "COQHLl1EsWWWTKs442ECabrI2Bk2": {
+      "-ONYOw0dBIQ82CjSWWeB": {
+        "bookingCode": "PPA2A",
+        "cinemaName": "CGV Vincom Royal City",
+        "food": "My Combo (1)",
+        "movieTitle": "Nhà gia tiên",
+        "seats": "B4",
+        "showtime": "13-04-2025, 17:30",
+        "totalPrice": "395000"
+      },
+      "-ONYajM_c_VkxhR_D66l": {
+        "bookingCode": "PGEY8",
+        "cinemaName": "CGV Hoàng Văn Thụ",
+        "food": "Không có",
+        "movieTitle": "The Avengers - Hồi kết (2023)",
+        "seats": "C6, C5",
+        "showtime": "03/04/2023, 21:00",
+        "totalPrice": "790,000"
+      }
+    },
+    "ETNaKOKl50cbZlWWGDzYEEkGQ8E2": {
+      "-ONaGkH64g89ZxoS0RHe": {
+        "bookingCode": "DVG6A",
+        "cinemaName": "CGV Aeon Hà Đông",
+        "food": "Premium CGV Combo (1)",
+        "movieTitle": "Âm dương lộ",
+        "seats": "C1, C2",
+        "showtime": "12-04-2025, 14:00",
+        "totalPrice": "735000"
+      }
+    },
+    "HJwVb6aFOXd9Ta4EdWjXrAi6NSB3": {
+      "-ONZpv9JHKKicx1If7_v": {
+        "bookingCode": "1UQY4",
+        "cinemaName": "CGV Vincom Metropolis Liễu Giai",
+        "food": "CGV Combo (1), Premium CGV Combo (1)",
+        "movieTitle": "Quỷ nhập tràng",
+        "seats": "D4, D3",
+        "showtime": "12-04-2025, 20:00",
+        "totalPrice": "860000"
+      }
+    },
+    "HyYDz2A2HeZr7XgrhRZtonx3LKg1": {
+      "-ONKxTfqxSuq4RyZSahE": {
+        "bookingCode": "WEB29",
+        "cinemaName": "CGV Tràng Tiền Plaza",
+        "food": "Premium CGV Combo (1)",
+        "movieTitle": "Cưới ma giải hạn",
+        "seats": "D6, D5",
+        "showtime": "12-04-2025, 21:00",
+        "totalPrice": "735000"
+      },
+      "-ONbKkQSX0mfFScitLst": {
+        "bookingCode": "EMG4E",
+        "cinemaName": "CGV Hoàng Văn Thụ",
+        "food": "Không có",
+        "movieTitle": "The Avengers - Hồi kết (2023)",
+        "seats": "C6, C5",
+        "showtime": "03/04/2023, 21:00",
+        "totalPrice": "790,000"
+      }
+    },
+    "L2lpDfDoJVYtY1LUcMeC6FYxF0l2": {
+      "-ONJAzNEgLh7Gyp70cSy": {
+        "bookingCode": "6ZA2J",
+        "cinemaName": "CGV Hoàng Văn Thụ",
+        "food": "Premium My Combo (1)",
+        "movieTitle": "Cưới ma giải hạn",
+        "seats": "D6, D5",
+        "showtime": "12-04-2025, 12:45",
+        "totalPrice": "715000"
+      },
+      "-ONJItfMZCQqV_rRv9Wg": {
+        "bookingCode": "KJQKP",
+        "cinemaName": "CGV Aeon Hà Đông",
+        "food": "Premium CGV Combo (1)",
+        "movieTitle": "Nhà gia tiên",
+        "seats": "D6, D5",
+        "showtime": "12-04-2025, 12:15",
+        "totalPrice": "735000"
+      },
+      "-ONJPGS_26Hogx20jOIM": {
+        "bookingCode": "URU0G",
+        "cinemaName": "CGV HOàng Văn Thụ",
+        "food": "My Combo (1), CGV Combo (1), Premium CGV Combo (1), Premium My Combo (1)",
+        "movieTitle": "Nhà gia tiên",
+        "seats": "D6, D5",
+        "showtime": "12-04-2025, 9:45",
+        "totalPrice": "1070000"
+      },
+      "-ONJQN51g8khU_6K2O27": {
+        "bookingCode": "GKWB8",
+        "cinemaName": "CGV Vincom Royal City",
+        "food": "Premium CGV Combo (1)",
+        "movieTitle": "Quỷ nhập tràng",
+        "seats": "D5, D6, D4, D3, C4, C3",
+        "showtime": "13-04-2025, 14:35",
+        "totalPrice": "1935000"
+      }
+    },
+    "QbOAuUCgMBPCn5x3ouuNHsrXYgV2": {
+      "-ONbXa8N4nCWlhvPAmSK": {
+        "bookingCode": "VU4OC",
+        "cinemaName": "CGV Tràng Tiền Plaza",
+        "food": "CGV Combo (1)",
+        "movieTitle": "Cưới ma giải hạn",
+        "seats": "C4, C3",
+        "showtime": "12-04-2025, 21:00",
+        "totalPrice": "725000"
+      }
+    },
+    "anonymous": {
+      "-ONLALQMaDmVS9q0g8v5": {
+        "bookingCode": "Z90M7",
+        "cinemaName": "CGV Aeon Hà Đông",
+        "food": "My Combo (1)",
+        "movieTitle": "Cưới ma giải hạn",
+        "seats": "D4, D3",
+        "showtime": "12-04-2025, 22:45",
+        "totalPrice": "695000"
+      },
+      "-ONYN68W4g9Osl6P4FgX": {
+        "bookingCode": "WYFYS",
+        "cinemaName": "CGV Hoàng Văn Thụ",
+        "food": "Không có",
+        "movieTitle": "The Avengers - Hồi kết (2023)",
+        "seats": "C6, C5",
+        "showtime": "03/04/2023, 21:00",
+        "totalPrice": "790,000"
+      }
+    }
+  },
+  "users": {
+    "85Ka7OmW6Yf8HQD6nctwLz5g9Rl1": {
+      "email": "tuancuongne@gmail.com",
+      "gioiTinh": "Nam",
+      "hoTen": "luongvancuong",
+      "ngaySinh": "1/1/2004"
+    },
+    "COQHLl1EsWWWTKs442ECabrI2Bk2": {
+      "email": "nguyenhuynh02032004@gmail.com",
+      "gioiTinh": "Nữ",
+      "hoTen": "huong",
+      "ngaySinh": "1/8/2024"
+    },
+    "ETNaKOKl50cbZlWWGDzYEEkGQ8E2": {
+      "email": "duongngockhanh56@gmail.com",
+      "gioiTinh": "Nữ",
+      "hoTen": "huong",
+      "ngaySinh": "12/4/2025"
+    },
+    "HJwVb6aFOXd9Ta4EdWjXrAi6NSB3": {
+      "email": "nmai76430@gmail.com",
+      "gioiTinh": "Nữ",
+      "hoTen": "Trúc",
+      "ngaySinh": "8/4/2004"
+    },
+    "HyYDz2A2HeZr7XgrhRZtonx3LKg1": {
+      "email": "trang180904@gmail.com",
+      "gioiTinh": "Nữ",
+      "hoTen": "Huyền Trang",
+      "ngaySinh": "18/9/2004"
+    },
+    "L2lpDfDoJVYtY1LUcMeC6FYxF0l2": {
+      "email": "thitruc8404@gmail.com",
+      "gioiTinh": "Nữ",
+      "hoTen": "Trần Thị Trúc",
+      "ngaySinh": "8/4/2004"
+    },
+    "QbOAuUCgMBPCn5x3ouuNHsrXYgV2": {
+      "email": "hantruc8404@gmail.com",
+      "gioiTinh": "Nữ",
+      "hoTen": "Trần Trúc",
+      "ngaySinh": "8/4/2004"
+    }
+  }
+}
